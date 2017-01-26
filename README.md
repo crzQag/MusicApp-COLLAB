@@ -6,6 +6,8 @@ Về xơ bản: App nghe nhạc
 Phương thức hoạt động:
 Sử dụng kho dữ liệu âm nhạc từ Apple Music App và sau đó tuỳ biến.
 
+Demo: http://bit.ly/2klVoU7
+
 Tính năng: 
 1. Shuffle.
 2. Nhanh, giao diện đẹp (theo e), dễ dùng.
